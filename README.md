@@ -1,5 +1,5 @@
-# OpenTopoMaps Victoria, Australia for Meshtastic UI
-OpenTopoMaps of Victoria, Australia with zoom levels 6-13 in the correct structure for Meshtastic UI. 
+# OpenTopoMap Victoria, Australia for Meshtastic UI
+OpenTopoMap of Victoria, Australia with zoom levels 6-13 in the correct structure for Meshtastic UI. 
 
 I couldn't find this anywhere so I decided to do it myself and make it available for the next person looking for it. 
 
