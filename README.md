@@ -8,7 +8,7 @@ This will reduce the amount of wasted space on the SD card, otherwise you could 
 
 The zip file has the correct folder structure already so just extract the contents onto the root directory of your device's SD card. 
 
-WARNING: Due to the extremely large number of small files this could take several hours to copy over, make sure you have the time. 
+WARNING: Due to the extremely large number of small files this could take several hours to copy to the SD card, make sure you have the time. 
 
 The folder structure from the root directory should look like this: /maps/OTM-VIC/.... If the root directory doesn't contain the maps folder it won't work. 
 
